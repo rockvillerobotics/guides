@@ -1,4 +1,4 @@
-Style
+:black_nib: Style
 =====
 
 A guide for programming in style.
