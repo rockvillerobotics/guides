@@ -13,7 +13,7 @@ In addition to the general guidelines below, we also have the following more
 detailed, language/framework-specific style guides:
 * [Python](python)
 
-Formatting
+:clipboard: Formatting
 ----------
 
 * Delete trailing whitespace.
@@ -23,14 +23,14 @@ Formatting
 
 [newline explanation]: http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline
 
-Naming
+:label: Naming
 ------
 
 * Avoid abbreviations.
 * Avoid object types in names (`user_array`, `email_method` `CalculatorClass`, `ReportModule`).
 * Name variables, methods, and classes to reveal intent.
 
-Organization
+:bento: Organization
 ------------
 
 * Order methods so that caller methods are earlier in the file than the methods
