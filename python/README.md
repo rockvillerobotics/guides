@@ -1,5 +1,4 @@
-Python
-------
+## :snake: Python
 
 * Follow [PEP 8].
 
