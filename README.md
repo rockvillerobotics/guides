@@ -33,9 +33,8 @@ detailed, language/framework-specific style guides:
 :bento: Organization
 ------------
 
+* Do not put function definitons in the `main` file. The `main` file should be high level and read like English, calling smaller functions which do the heavy lifting.
 * Order methods so that caller methods are earlier in the file than the methods
   they call.
 * Order methods so that methods are as close as possible to other methods they
   call.
-* The `main` file should be high level and read like English, calling smaller functions which do the heavy lifting.
-* Do not put function definitons in the `main` file.
